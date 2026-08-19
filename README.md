@@ -4,7 +4,7 @@
 
 ## Header
 
-Hi, I'm **pratee-orangy**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm *Prateeksha Hegde. This README shares what I'm building, the tools I use and the work I'm proud of.
 
 <p align="center">
   <picture>
